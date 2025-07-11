@@ -1,30 +1,28 @@
-<!--# Hi, I'm Zack!
+# Hi there! I'm Zack O'Connor
 
-## About Me
-I'm currently a student at [General Assembly](https://generalassemb.ly/){target=_blank} studying Software Engineering. <br>
-I'm passionate about web and mobile development.
+**Full-Stack Software Engineer** passionate about building user-centric web applications
 
-## 💻 Languages and Tools
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
+**Recent graduate** of [General Assembly's](https://generalassemb.ly/) intensive Full Stack Software Engineering program.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+**Currently Building:** A modern, responsive web application for tracking stock prices and staying updated with the latest financial news. Built with React and TypeScript, powered by the Finnhub API.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+**Based in:** Upstate New York
+
+# What I Do
+- Build responsive,  web applications
+- Create seamless user experiences with modern frontend frameworks
+- Collaborate effectively in agile development teams
+<!-- - Develop scalable backend APIs and database solutions -->
 
 
+# Let's Connect!
+- Portfolio: https://zackaryoconnor.github.io/Portfolio/
+- Email: zackary25@gmail.com
+-  LinkedIn: [Connect with me](https://www.linkedin.com/in/zackary-o-connor-abb4a7359)
 
+#### Open to collaboration and new opportunities!
 
-# Hi, I'm Zack!
-
-## About Me
-I'm currently a student at [General Assembly](https://generalassemb.ly/) studying Software Engineering. <br>
-I'm passionate about web and mobile development.
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zackary-o-connor-abb4a7359 )
-
-# 💻 Tech Stack:
+# Tech Stack:
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -43,7 +41,7 @@ I'm passionate about web and mobile development.
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 
 
-### ✍️ Random Dev Quote
+### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
