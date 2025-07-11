@@ -16,7 +16,7 @@
 
 
 # Let's Connect!
-- Portfolio: https://zackaryoconnor.github.io/Portfolio/
+- Portfolio: [zackaryoconnor.github.io/Portfolio](https://zackaryoconnor.github.io/Portfolio/)
 - Email: zackary25@gmail.com
 -  LinkedIn: [Connect with me](https://www.linkedin.com/in/zackary-o-connor-abb4a7359)
 
